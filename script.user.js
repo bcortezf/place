@@ -9,8 +9,8 @@
 // @icon         https://cdn.frankerfacez.com/emoticon/545961/4
 // @require	     https://cdn.jsdelivr.net/npm/toastify-js
 // @resource     TOASTIFY_CSS https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css
-// @updateURL    https://github.com/ForsenPlace/Script/raw/main/script.user.js
-// @downloadURL  https://github.com/ForsenPlace/Script/main/script.user.js
+// @updateURL    https://github.com/bcortezf/place/raw/main/script.user.js
+// @downloadURL  https://github.com/bcortezf/place/blob/main/script.user.js
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // @grant GM.xmlHttpRequest
