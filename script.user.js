@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         r/Chile Script
-// @namespace    https://github.com/ForsenPlace/Script
-// @version      16
+// @namespace    https://github.com/bcortezf/place
+// @version      1
 // @description  Script
-// @author       ForsenPlace
+// @author       inuckles, Nosferath, GoLez, y r/Chile <3
 // @match        https://www.reddit.com/r/place/*
 // @match        https://new.reddit.com/r/place/*
 // @icon         https://cdn.frankerfacez.com/emoticon/545961/4
